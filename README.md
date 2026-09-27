@@ -37,7 +37,7 @@ Fun Fact    : I break things in labs so nobody breaks them in production 🛡️
 - 🐳 **Containerization expert** — Docker & Kubernetes, CI/CD pipeline automation
 - 💻 **Full-Stack Developer** — MERN Stack with production-grade security patterns
 - 🚀 **Shipping real projects** — From idea to deployment with professional standards
-- 📍 Based in Dehradun, India
+  
 
 ## ⚡ Key Strengths
 
