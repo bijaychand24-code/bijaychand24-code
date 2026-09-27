@@ -60,7 +60,7 @@ Fun Fact    : I break things in labs so nobody breaks them in production 🛡️
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-📚 Resources: [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [Python Docs](https://docs.python.org/) | [Bash Guide](https://www.gnu.org/software/bash/manual/)
+📚 **FREE Resources:** [FreeCodeCamp JavaScript](https://www.youtube.com/watch?v=PkZNo7MFNFg) | [FreeCodeCamp Python](https://www.youtube.com/watch?v=rfscVS0vtik) | [The Bash Guide](https://mywiki.wooledge.org/BashGuide)
 
 **Frontend**
 <br/>
@@ -68,7 +68,7 @@ Fun Fact    : I break things in labs so nobody breaks them in production 🛡️
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-📚 Resources: [React Docs](https://react.dev/) | [HTML5 Guide](https://developer.mozilla.org/en-US/docs/Web/HTML) | [Tailwind CSS](https://tailwindcss.com/docs)
+📚 **FREE Resources:** [FreeCodeCamp React](https://www.youtube.com/watch?v=bMknfKXILvM) | [Codecademy HTML5](https://www.codecademy.com/learn/learn-html) | [Scrimba Tailwind](https://scrimba.com/learn/tailwind)
 
 **Backend & Database**
 <br/>
@@ -77,7 +77,7 @@ Fun Fact    : I break things in labs so nobody breaks them in production 🛡️
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
 
-📚 Resources: [Node.js Docs](https://nodejs.org/docs/) | [Express.js Guide](https://expressjs.com/) | [MongoDB University](https://university.mongodb.com/) | [JWT.io](https://jwt.io/)
+📚 **FREE Resources:** [FreeCodeCamp Node.js](https://www.youtube.com/watch?v=ENrzD6AvWZE) | [FreeCodeCamp Express](https://www.youtube.com/watch?v=L72fhGm1tfE) | [MongoDB University](https://university.mongodb.com/) | [JWT.io Interactive](https://jwt.io/introduction)
 
 **DevOps & Cloud**
 <br/>
@@ -88,7 +88,7 @@ Fun Fact    : I break things in labs so nobody breaks them in production 🛡️
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 
-📚 Resources: [AWS Docs](https://docs.aws.amazon.com/) | [Docker Docs](https://docs.docker.com/) | [Linux Command Line](https://linuxcommand.org/) | [Git Guide](https://git-scm.com/doc) | [GitHub Actions](https://docs.github.com/en/actions) | [Nginx Guide](https://nginx.org/en/docs/)
+📚 **FREE Resources:** [KodeKloud AWS Free](https://kodekloud.com/courses/aws-basics/) | [KodeKloud Docker](https://kodekloud.com/courses/docker/) | [FreeCodeCamp Linux](https://www.youtube.com/watch?v=sB3ZBsFoa24) | [Codecademy Git](https://www.codecademy.com/learn/learn-git) | [GitHub Skills Actions](https://skills.github.com/) | [KodeKloud Nginx](https://kodekloud.com/courses/nginx-fundamentals/)
 
 <br/>
 
@@ -375,61 +375,3 @@ If you're interested in collaborating on Cloud infrastructure, DevOps automation
 ⭐ <i>From <a href="https://github.com/bijaychand24-code">Bijay Chand</a> — keep building, keep shipping, keep learning 🚀</i>
 
 </div>
-
----
-
-## ✅ GitHub Profile Setup Instructions
-
-### Step 1: Create a New Repository
-
-1. Log in to your GitHub account
-2. Click the **+** icon (top right corner) → Select **New repository**
-3. Repository name: `bijaychand24-code` (must match your GitHub username exactly)
-4. Select **Public** visibility
-5. Check the box: **Initialize this repository with a README**
-6. Click **Create repository** button
-
-### Step 2: Add the README Content
-
-1. Navigate to your new repository
-2. Click on **README.md** file
-3. Click the **Edit** button (pencil icon)
-4. Select all existing content and delete it
-5. Paste the entire content from this file
-6. Scroll to the bottom and click **Commit changes** (green button)
-7. Add a commit message: "Initial GitHub profile README"
-8. Select **Commit directly to the main branch**
-9. Click **Commit changes**
-
-### Step 3: Verify Your Profile
-
-1. Go to your GitHub profile: `github.com/bijaychand24-code`
-2. Your profile README will appear prominently below your bio section
-3. All badges, stats, and graphs will automatically render
-4. Profile is now complete! 🎉
-
-<br/>
-
-### Additional Notes:
-
-- **Update Featured Projects** — Add more projects as you build them (aim for 3-4 minimum)
-- **Customize Learning Resources** — Remove or add resources based on your learning path
-- **GitHub Stats Auto-Update** — Stats widgets refresh automatically daily
-- **Verify All Links** — Test external links to ensure they work correctly
-- **Keep It Updated** — Regularly add new projects and update progress bars
-
-<br/>
-
----
-
-**Tips for Your GitHub Profile:**
-
-✅ Keep your README concise but informative
-✅ Update Featured Projects with your best work
-✅ Maintain regular commit activity
-✅ Use meaningful commit messages
-✅ Link to your portfolio and live projects
-✅ Showcase your latest learning achievements
-✅ Engage with the open-source community
-
-**Happy coding! 🚀**
