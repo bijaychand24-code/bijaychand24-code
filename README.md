@@ -244,55 +244,52 @@ Quick access to all my projects:
 
 <br/>
 
-## 📚 Learning Resources
+## 📚 Learning Resources (100% FREE)
 
 ### AWS & Cloud Computing
 - [AWS Free Tier](https://aws.amazon.com/free/) — Hands-on practice with free credits
-- [AWS Skill Builder](https://skillbuilder.aws.com/) — Official AWS courses and certifications
-- [A Cloud Guru (Linux Academy)](https://acloudguru.com/) — EC2, S3, Lambda learning paths
 - [AWS Architecture Center](https://aws.amazon.com/architecture/) — Real-world design patterns
-- [AWS Whitepapers](https://aws.amazon.com/whitepapers/) — In-depth technical guides
+- [KodeKloud AWS Basics](https://kodekloud.com/courses/aws-basics/) — Free AWS fundamentals
+- [FreeCodeCamp AWS](https://www.youtube.com/results?search_query=freecodecamp+aws) — YouTube tutorials
 
-### Docker & Container Technology
-- [Docker Official Documentation](https://docs.docker.com/) — Complete reference guide
-- [Docker in 100 Seconds](https://www.youtube.com/watch?v=Gjf_E8jkEt8) — Quick visual introduction
-- [Play with Docker](https://www.docker.com/play-with-docker) — Interactive sandbox environment
-- [Docker Best Practices](https://docs.docker.com/develop/dev-best-practices/) — Production guidelines
-- [Docker Hub](https://hub.docker.com/) — Official image registry
+### Docker & Containerization
+- [Docker Official Docs](https://docs.docker.com/) — Complete reference guide
+- [Play with Docker](https://www.docker.com/play-with-docker) — Interactive sandbox
+- [KodeKloud Docker](https://kodekloud.com/courses/docker/) — Free Docker course
+- [FreeCodeCamp Docker](https://www.youtube.com/watch?v=fqMOX6JJhGo) — Complete Docker tutorial
 
 ### CI/CD & DevOps
-- [GitHub Actions Documentation](https://docs.github.com/en/actions) — Pipeline automation guide
-- [GitHub Actions Marketplace](https://github.com/marketplace?type=actions) — Pre-built workflows
-- [Nginx Beginner's Guide](https://nginx.org/en/docs/beginners_guide.html) — Web server essentials
-- [The Twelve-Factor App](https://12factor.net/) — DevOps application principles
-- [Infrastructure as Code](https://www.terraform.io/docs) — Terraform documentation
+- [GitHub Actions Documentation](https://docs.github.com/en/actions) — Official guide
+- [GitHub Actions Marketplace](https://github.com/marketplace?type=actions) — Free workflows
+- [GitHub Skills](https://skills.github.com/) — Interactive GitHub learning
+- [KodeKloud DevOps](https://kodekloud.com/courses/docker/) — Free DevOps fundamentals
 
 ### Security & Authentication
-- [JWT.io](https://jwt.io/) — JWT implementation guide and token debugger
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/) — Web application security fundamentals
-- [Auth0 Blog](https://auth0.com/blog/) — Authentication and authorization best practices
+- [JWT.io](https://jwt.io/) — JWT debugger & guide
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/) — Security fundamentals
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security) — Free security training
-- [OWASP API Security](https://owasp.org/www-project-api-security/) — API security guidelines
+- [OWASP API Security](https://owasp.org/www-project-api-security/) — API security guide
 
 ### Full-Stack Development (MERN)
-- [MongoDB University](https://university.mongodb.com/) — Free M001, M220JS courses
-- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) — Production checklist
-- [Express.js Official Documentation](https://expressjs.com/) — Web application framework
-- [React Official Documentation](https://react.dev/) — Latest React patterns and hooks
-- [Vitest Documentation](https://vitest.dev/) — Unit testing framework
+- [React Official Docs](https://react.dev/) — Official React documentation
+- [Node.js Official Docs](https://nodejs.org/docs/) — Node.js reference
+- [Express.js Docs](https://expressjs.com/) — Express documentation
+- [MongoDB University](https://university.mongodb.com/) — Free MongoDB courses
+- [FreeCodeCamp MERN](https://www.youtube.com/results?search_query=freecodecamp+mern) — Complete MERN tutorials
 
-### Linux & Command Line
-- [The Linux Command Line](https://linuxcommand.org/) — Comprehensive beginner's guide
-- [Bash Scripting Guide](https://www.gnu.org/software/bash/manual/) — Official reference manual
-- [Linux Man Pages](https://man7.org/linux/man-pages/) — Command documentation
-- [Regex101](https://regex101.com/) — Regular expressions playground
+### Linux & Bash
+- [The Linux Command Line](https://linuxcommand.org/) — Comprehensive guide
+- [Bash Official Manual](https://www.gnu.org/software/bash/manual/) — Reference guide
+- [KodeKloud Linux](https://kodekloud.com/courses/linux-basics/) — Free Linux course
+- [FreeCodeCamp Linux](https://www.youtube.com/watch?v=sB3ZBsFoa24) — Complete Linux tutorial
 
 ### General Learning Platforms
-- [Stack Overflow](https://stackoverflow.com/) — Q&A for problem-solving
-- [Dev.to](https://dev.to/) — Technical articles and tutorials
-- [GitHub Trending](https://github.com/trending) — Popular projects to learn from
-- [Roadmap.sh](https://roadmap.sh/) — Developer career roadmaps by specialization
-- [FreeCodeCamp](https://www.freecodecamp.org/) — Free comprehensive coding courses
+- [FreeCodeCamp](https://www.freecodecamp.org/) — Free comprehensive courses
+- [Stack Overflow](https://stackoverflow.com/) — Q&A platform
+- [Dev.to](https://dev.to/) — Developer articles
+- [Roadmap.sh](https://roadmap.sh/) — Career roadmaps
+- [GitHub Trending](https://github.com/trending) — Popular projects
+- [KodeKloud](https://kodekloud.com/) — Free hands-on labs
 
 <br/>
 
@@ -375,3 +372,37 @@ If you're interested in collaborating on Cloud infrastructure, DevOps automation
 ⭐ <i>From <a href="https://github.com/bijaychand24-code">Bijay Chand</a> — keep building, keep shipping, keep learning 🚀</i>
 
 </div>
+
+---
+
+## ✅ GitHub Profile Setup Instructions
+
+### Step 1: Create a New Repository
+
+1. Log in to your GitHub account
+2. Click the **+** icon (top right corner) → Select **New repository**
+3. Repository name: `bijaychand24-code` (must match your GitHub username exactly)
+4. Select **Public** visibility
+5. Check the box: **Initialize this repository with a README**
+6. Click **Create repository** button
+
+### Step 2: Add the README Content
+
+1. Navigate to your new repository
+2. Click on **README.md** file
+3. Click the **Edit** button (pencil icon)
+4. Select all existing content and delete it
+5. Paste the entire content from this file
+6. Scroll to the bottom and click **Commit changes** (green button)
+7. Add a commit message: "Initial GitHub profile README"
+8. Select **Commit directly to the main branch**
+9. Click **Commit changes**
+
+### Step 3: Verify Your Profile
+
+1. Go to your GitHub profile: `github.com/bijaychand24-code`
+2. Your profile README will appear prominently below your bio section
+3. All badges, stats, and graphs will automatically render
+4. Profile is now complete! 🎉
+
+<br/>
