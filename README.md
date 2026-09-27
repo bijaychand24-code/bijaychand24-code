@@ -372,37 +372,3 @@ If you're interested in collaborating on Cloud infrastructure, DevOps automation
 ⭐ <i>From <a href="https://github.com/bijaychand24-code">Bijay Chand</a> — keep building, keep shipping, keep learning 🚀</i>
 
 </div>
-
----
-
-## ✅ GitHub Profile Setup Instructions
-
-### Step 1: Create a New Repository
-
-1. Log in to your GitHub account
-2. Click the **+** icon (top right corner) → Select **New repository**
-3. Repository name: `bijaychand24-code` (must match your GitHub username exactly)
-4. Select **Public** visibility
-5. Check the box: **Initialize this repository with a README**
-6. Click **Create repository** button
-
-### Step 2: Add the README Content
-
-1. Navigate to your new repository
-2. Click on **README.md** file
-3. Click the **Edit** button (pencil icon)
-4. Select all existing content and delete it
-5. Paste the entire content from this file
-6. Scroll to the bottom and click **Commit changes** (green button)
-7. Add a commit message: "Initial GitHub profile README"
-8. Select **Commit directly to the main branch**
-9. Click **Commit changes**
-
-### Step 3: Verify Your Profile
-
-1. Go to your GitHub profile: `github.com/bijaychand24-code`
-2. Your profile README will appear prominently below your bio section
-3. All badges, stats, and graphs will automatically render
-4. Profile is now complete! 🎉
-
-<br/>
